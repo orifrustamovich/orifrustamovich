@@ -20,4 +20,4 @@ Backend Developer focused on building reliable and scalable APIs
 Django · DRF · PostgreSQL · Docker
 
 **E-Commerce API**
-Django · DRF · Redis · Celery · AWS
+Django · DRF · PostgreSQL · Docker · Redis · Celery · AWS
