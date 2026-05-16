@@ -10,7 +10,7 @@ Backend Developer focused on building reliable and scalable APIs
 ---
 
 ## Tech Stack
-`Python` `Django` `DRF` `PostgreSQL` `Docker` `Redis` `Celery` `GitHub Actions` `AWS`
+`Python` `Django` `DRF` `PostgreSQL` `Docker` `Redis` `Celery` `GitHub Actions` `AWS` `Heroku` 
 
 ---
 
