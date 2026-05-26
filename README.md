@@ -17,8 +17,8 @@ Backend Developer focused on building reliable and scalable APIs
 ## Projects
 
 **Restaurant Reservation API**
-Django · DRF · PostgreSQL · Docker
-Link: http://api.joyol.me/api/docs/
+Django · DRF · PostgreSQL · Docker ·
+Project link: http://api.joyol.me/api/docs/
 
 **E-Commerce API**
 Django · DRF · PostgreSQL · Docker · Redis · Celery · AWS
