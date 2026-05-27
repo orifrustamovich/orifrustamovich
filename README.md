@@ -46,7 +46,7 @@ Scalable restaurant reservation backend built with Django REST Framework.
 - Dockerized environment
 
 ## 🔗 Live API Docs
-# 👉 **http://api.joyol.me/api/docs/**
+# 👉 **https://api.joyol.me/api/docs/**
 
 ---
 
