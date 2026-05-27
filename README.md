@@ -71,4 +71,4 @@ Backend API for e-commerce services with asynchronous task processing.
 
 - GitHub: https://github.com/orifrustamovich
 - Email: oriffrustamovich@gmail.com
-- LinkedIn: https://linkedin.com/in/orifrustamovich
+- LinkedIn: https://www.linkedin.com/in/orifjon-toshtemirov-980123264/
